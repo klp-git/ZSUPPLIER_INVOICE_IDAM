@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Supplier Invoice",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Supplier Invoice"
+  },
+  "ui5AppDetails": {
+    "appId": "supplierinvoice"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_39EA77D264A7175B2C6C7177351D6AE549D4CBF4_TM",
+    "semanticObject": "zsupplier_inv",
+    "action": "zsupplier_inv",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_39EA77D264A7175B2C6C7177351D6AE549D4CBF4_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Supplier Invoice"
+      }
+    }
+  ]
+}
